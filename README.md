@@ -1,6 +1,6 @@
 # ABSpotter (Deep Learning - Image regonization)
 
-Real time image name detection demo App with ABSpotter for iOS based on Tensorflow
+Real time image name detection demo App - ABSpotter for iOS based on Tensorflow
 
 # Dependencies
 
